@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CProject/in1week/build",
+  "command": "D:\\Gcc_PLUGIN\\mingw64\\bin\\g++.exe  @CMakeFiles/in1week.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\in1week.dir\\src\\main.cpp.obj -c D:\\CProject\\in1week\\src\\main.cpp",
+  "file": "D:/CProject/in1week/src/main.cpp",
+  "output": "CMakeFiles/in1week.dir/src/main.cpp.obj"
+}
+]

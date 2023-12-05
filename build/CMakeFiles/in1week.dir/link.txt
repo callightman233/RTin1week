@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\in1week.dir/objects.a
+D:\Gcc_PLUGIN\mingw64\bin\ar.exe qc CMakeFiles\in1week.dir/objects.a @CMakeFiles\in1week.dir\objects1.rsp
+D:\Gcc_PLUGIN\mingw64\bin\g++.exe  -Wall -g -Wl,--whole-archive CMakeFiles\in1week.dir/objects.a -Wl,--no-whole-archive -o in1week.exe -Wl,--out-implib,libin1week.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\in1week.dir\linkLibs.rsp
