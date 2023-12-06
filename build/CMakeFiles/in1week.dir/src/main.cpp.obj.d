@@ -56,6 +56,7 @@ CMakeFiles/in1week.dir/src/main.cpp.obj: D:\CProject\in1week\src\main.cpp \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/tr1/poly_hermite.tcc \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/tr1/poly_laguerre.tcc \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/tr1/riemann_zeta.tcc \
+ D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdlib \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/memory \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/allocator.h \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -153,7 +154,6 @@ CMakeFiles/in1week.dir/src/main.cpp.obj: D:\CProject\in1week\src\main.cpp \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/string_view \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/string_view.tcc \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/string_conversions.h \
- D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdlib \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdio \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cerrno \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/charconv.h \
