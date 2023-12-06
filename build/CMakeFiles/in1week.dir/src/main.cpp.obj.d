@@ -180,9 +180,12 @@ CMakeFiles/in1week.dir/src/main.cpp.obj: D:\CProject\in1week\src\main.cpp \
  D:/CProject/in1week/include/rtweekend.h \
  D:/CProject/in1week/include/color.h \
  D:/CProject/in1week/include/hittable.h \
+ D:/CProject/in1week/include/material.h \
+ D:/CProject/in1week/include/color.h \
  D:/CProject/in1week/include/hittable_list.h \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/vector \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_vector.h \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_bvector.h \
  D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/vector.tcc \
+ D:/CProject/in1week/include/material.h \
  D:/CProject/in1week/include/sphere.h

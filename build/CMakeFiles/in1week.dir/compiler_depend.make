@@ -7,6 +7,7 @@ CMakeFiles/in1week.dir/src/main.cpp.obj: D:/CProject/in1week/src/main.cpp \
   D:/CProject/in1week/include/hittable.h \
   D:/CProject/in1week/include/hittable_list.h \
   D:/CProject/in1week/include/interval.h \
+  D:/CProject/in1week/include/material.h \
   D:/CProject/in1week/include/ray.h \
   D:/CProject/in1week/include/rtweekend.h \
   D:/CProject/in1week/include/sphere.h \
@@ -216,6 +217,8 @@ D:/Gcc_PLUGIN/mingw64/x86_64-w64-mingw32/include/stdint.h:
 D:/CProject/in1week/include/camera.h:
 
 D:/CProject/in1week/include/rtweekend.h:
+
+D:/CProject/in1week/include/material.h:
 
 D:/CProject/in1week/include/interval.h:
 
