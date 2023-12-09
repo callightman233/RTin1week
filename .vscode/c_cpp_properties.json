@@ -1,20 +1,19 @@
 // .vscode/c_cpp_properties.json
-
 {
     "configurations": [
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",  // Include all project files
-                "D:/CProject/in1week/include",  // Add specific include directories
-                "D:/CProject/in1week/src"      // Add specific source directories
+                "${workspaceFolder}/**", // Include all project files
+                "F:/Cproject/in1week/include", // Add specific include directories
+                "F:/Cproject/in1week/src" // Add specific source directories
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:/Gcc_PLUGIN/mingw64/bin/g++.exe",
+            "compilerPath": "F:/DevTools/mingw64/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x64"

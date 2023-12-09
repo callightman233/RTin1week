@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Specify the C and C++ compilers
-set(CMAKE_C_COMPILER "D:/Gcc_PLUGIN/mingw64/bin/gcc.exe")
-set(CMAKE_CXX_COMPILER "D:/Gcc_PLUGIN/mingw64/bin/g++.exe")
+set(CMAKE_C_COMPILER "F:/DevTools/mingw64/bin/gcc.exe")
+set(CMAKE_CXX_COMPILER "F:/DevTools/mingw64/bin/g++.exe")
 
 # Set additional flags for both C and C++
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall")

@@ -44,19 +44,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\Cmake\bin\cmake.exe
+CMAKE_COMMAND = F:\DevTools\cmake\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\Cmake\bin\cmake.exe -E rm -f
+RM = F:\DevTools\cmake\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\CProject\in1week
+CMAKE_SOURCE_DIR = F:\Cproject\in1week
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\CProject\in1week\build
+CMAKE_BINARY_DIR = F:\Cproject\in1week\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/in1week.dir/clean
 CMakeFiles/in1week.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\in1week.dir\build.make CMakeFiles/in1week.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\in1week.dir\build.make CMakeFiles/in1week.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\CProject\in1week\build\CMakeFiles --progress-num=1,2 "Built target in1week"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=F:\Cproject\in1week\build\CMakeFiles --progress-num=1,2 "Built target in1week"
 .PHONY : CMakeFiles/in1week.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/in1week.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\CProject\in1week\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\Cproject\in1week\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/in1week.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\CProject\in1week\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\Cproject\in1week\build\CMakeFiles 0
 .PHONY : CMakeFiles/in1week.dir/rule
 
 # Convenience name for target.

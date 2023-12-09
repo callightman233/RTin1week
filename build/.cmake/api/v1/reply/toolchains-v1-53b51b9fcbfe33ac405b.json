@@ -10,19 +10,19 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++",
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32",
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward",
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include",
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed",
-						"D:/Gcc_PLUGIN/mingw64/x86_64-w64-mingw32/include"
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++",
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32",
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward",
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
+						"F:/DevTools/mingw64/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : 
 					[
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0",
-						"D:/Gcc_PLUGIN/mingw64/lib/gcc",
-						"D:/Gcc_PLUGIN/mingw64/x86_64-w64-mingw32/lib",
-						"D:/Gcc_PLUGIN/mingw64/lib"
+						"F:/DevTools/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0",
+						"F:/DevTools/mingw64/lib/gcc",
+						"F:/DevTools/mingw64/x86_64-w64-mingw32/lib",
+						"F:/DevTools/mingw64/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -48,8 +48,8 @@
 						"kernel32"
 					]
 				},
-				"path" : "D:/Gcc_PLUGIN/mingw64/bin/g++.exe",
-				"version" : "12.2.0"
+				"path" : "F:/DevTools/mingw64/bin/g++.exe",
+				"version" : "13.2.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 
@@ -75,7 +75,7 @@
 			"compiler" : 
 			{
 				"implicit" : {},
-				"path" : "D:/Gcc_PLUGIN/mingw64/bin/windres.exe"
+				"path" : "F:/DevTools/mingw64/bin/windres.exe"
 			},
 			"language" : "RC",
 			"sourceFileExtensions" : 

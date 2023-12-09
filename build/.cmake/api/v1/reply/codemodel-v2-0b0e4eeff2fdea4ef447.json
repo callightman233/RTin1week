@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "in1week::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-in1week-Debug-9f3f6f31e40c8c7b907b.json",
+					"jsonFile" : "target-in1week-Debug-a6c907e8abd3d67381a6.json",
 					"name" : "in1week",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CProject/in1week/build",
-		"source" : "D:/CProject/in1week"
+		"build" : "F:/Cproject/in1week/build",
+		"source" : "F:/Cproject/in1week"
 	},
 	"version" : 
 	{
